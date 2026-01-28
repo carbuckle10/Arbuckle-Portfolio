@@ -6,9 +6,9 @@ title: "Welcome to My Product Management Portfolio"
 
 <img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Carson Arbuckle</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/carson-arbuckle-90800421b/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
 <a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
@@ -16,6 +16,12 @@ title: "Welcome to My Product Management Portfolio"
 </a>
 
 :::
+
+## About Me
+
+Strategic Management major at the BYU Marriott School of Business with experience in both established and startup environments. At Podium and Driven I contributed to projects that required adaptability, analytical thinking, and a strong attention to detail. I also bring direct experience from building custom 3D props for businesses, blending creativity with execution.
+
+I am motivated by opportunities to solve complex problems, apply data-driven insights, and help organizations grow. Known for working efficiently and keeping projects on track, I combine strategic thinking with practical execution to deliver results.
 
 ## Featured Projects
 
