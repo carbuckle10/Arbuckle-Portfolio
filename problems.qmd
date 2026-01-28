@@ -1,0 +1,9 @@
+---
+title: "Problems I am Exploring"
+---
+
+1. Networking/job tracking problems
+2. The time it takes to time block a calendar
+3. Responding to Emails
+4. Keeping track of assignments and due dates
+5. Alarms that actually wake you up

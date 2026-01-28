@@ -4,7 +4,7 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Carson Arbuckle" class="mb-3" width="220">
 
 <h1>Carson Arbuckle</h1>
 
