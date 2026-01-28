@@ -13,7 +13,7 @@ website:
       - href: about.qmd
         text: About
       - href: problems.qmd
-        text: Problems I am Exploring
+        text: Problems
       - text: Projects
         menu:
           - href: projects/project-1.qmd
