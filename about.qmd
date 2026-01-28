@@ -4,60 +4,63 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Carson Arbuckle" class="mb-3" width="220">
 
-<h1>Your Name</h1>
+<h1>Carson Arbuckle</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/carson-arbuckle-90800421b/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
-</a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
 </a>
 
 :::
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+Strategic Management major at the BYU Marriott School of Business with experience in both established and startup environments. At Podium and Driven I contributed to projects that required adaptability, analytical thinking, and a strong attention to detail. I also bring direct experience from building custom 3D props for businesses, blending creativity with execution.
 
-### Education
+I am motivated by opportunities to solve complex problems, apply data-driven insights, and help organizations grow. Known for working efficiently and keeping projects on track, I combine strategic thinking with practical execution to deliver results.
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+## Education
 
-### Experience
+**Bachelor of Science, Strategic Management**
+Brigham Young University - Marriott School of Business | Expected Apr 2027
 
-#### Job/Internship Title - Company Name
-*Dates*
+- GPA: 3.82
+- Corporate Strategy Association Member
+- Product Management Association Member
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+## Experience
 
-#### Another Position - Company Name
-*Dates*
+### Growth Analyst Intern - Driven
+*Jun 2025 - Aug 2025 | Provo, UT*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Analyzed market landscape and identified 4 viable expansion opportunities aligned with core competencies, supporting data-driven growth strategy decisions
+- Constructed a dynamic Excel model incorporating 15 impactful variables to compare pessimistic, realistic, and optimistic revenue projections for a new service launch
+- Designed and implemented a 10-question Google Form to analyze client reward systems, achieving a 10% response rate and generating actionable insights
 
-### Skills & Interests
+### Product Marketing and Positioning Strategy Intern - Podium
+*Jan 2025 - Apr 2025 | Remote*
+
+- Conducted in-depth competitor analysis, identifying 29 key players in Podium's core verticals; leveraged AI tools to evaluate strengths, weaknesses, and features
+- Led weekly meetings to deliver project updates, gather feedback, and scope new initiatives
+- Created 4 targeted marketing assets incorporating research-driven customer language and AI-related pain points
+
+### Sculptor / Painter / Installation - Foam Fab
+*Nov 2022 - Aug 2025 | Springville, UT*
+
+- Developed programs to increase productivity in post-production and shipping, making the process 25% faster
+- Developed a process to increase product quality by 30% while maintaining speed, efficiency, and improving margins
+- Helped build a 26ft tall gingerbread tower for a retail client
+
+## Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+- Excel, Word, PowerPoint
+- SQL, HTML, VBA
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
 
-### What's Next
-
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+- Mountain Biking (Scholarship Recipient)
+- International Travel - visited China, Brazil, Costa Rica, Peru, and the Philippines
+- Currently reading "Think Fast Talk Smart"
