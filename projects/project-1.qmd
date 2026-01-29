@@ -1,17 +1,19 @@
 ---
-title: "Name of the application I have published for Homework 1"
-date: "2024-09-15"
-categories: [GitHub, Vercel, Claude Code]
+title: "Tetris Game"
+date: "2025-01-28"
+categories: [GitHub, Vercel, Claude Code, JavaScript]
 ---
 
 ## Overview
 
-This project involved using Claude Code to write the code to needed to deveop an app that ...
+A classic Tetris game built using Claude Code. This project demonstrates building an interactive browser-based game with smooth controls, scoring, and increasing difficulty.
 
-The primary purpose of this app is to:
+The primary features of this app include:
 
-- ....
-- ....
+- Classic Tetris gameplay with all 7 tetromino shapes
+- Keyboard controls for movement, rotation, and fast drop
+- Score tracking and level progression
+- Responsive design that works on desktop browsers
 
 ## Live Product Demo
 
@@ -27,11 +29,11 @@ The primary purpose of this app is to:
 
   <!-- GitHub Source button -->
   <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/your-user/your-repo"
+     href="https://github.com/carbuckle10/tetris-game"
      target="_blank" rel="noopener"
      aria-label="Open GitHub source">
     <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
-    View source on GitHub
+    View Source on GitHub
   </a>
 </div>
 
@@ -42,13 +44,11 @@ The primary purpose of this app is to:
 
 ## Technical Details
 
-Framework/Stack: [e.g., React, Quarto, HTML/CSS/JS]
+**Framework/Stack:** HTML, CSS, JavaScript
 
-Deployment: GitHub Pages + Vercel
+**Deployment:** GitHub + Vercel
 
-Tools Used:
--   Claude Code
+**Tools Used:**
 
-## Product Requirements Document
-
-Paste in the PRD that you submitted to Claude Code
+- Claude Code for development
+- Vercel for hosting and deployment
