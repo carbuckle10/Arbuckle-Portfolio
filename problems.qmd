@@ -2,8 +2,54 @@
 title: "Problems I am Exploring"
 ---
 
-1. Networking/job tracking problems
-2. The time it takes to time block a calendar
-3. Responding to Emails
-4. Keeping track of assignments and due dates
-5. Alarms that actually wake you up
+These are real challenges I've encountered as a student and professional. I'm actively thinking about how technology and better design could solve them.
+
+---
+
+## 1. Networking and Job Tracking
+
+**The Problem:** Managing professional relationships and job applications is fragmented and overwhelming. Contacts live in LinkedIn, notes in spreadsheets, follow-ups in email, and application statuses in separate portals. Important connections fall through the cracks.
+
+**Why It Matters:** As a strategic management student preparing to enter the workforce, I've experienced firsthand how difficult it is to stay organized during recruiting season. Missing a follow-up email or forgetting where you met someone can cost you an opportunity.
+
+**The Opportunity:** A unified system that tracks contacts, conversations, application statuses, and follow-up reminders could transform how students and professionals manage their career development.
+
+---
+
+## 2. Time Blocking a Calendar
+
+**The Problem:** Time blocking is one of the most effective productivity techniques, but actually implementing it is tedious. Manually dragging blocks around a calendar, estimating task durations, and adjusting when priorities shift takes more time than it saves.
+
+**Why It Matters:** I've seen how powerful time blocking can be for staying focused and getting things done. But the friction of setting it up means most people abandon it after a few days.
+
+**The Opportunity:** An intelligent system that helps you quickly allocate time based on your tasks, deadlines, and energy levels could make time blocking accessible to everyone—not just productivity enthusiasts.
+
+---
+
+## 3. Responding to Emails Efficiently
+
+**The Problem:** Email remains essential for professional communication, but crafting thoughtful responses takes significant time. Many emails require similar responses, yet we write them from scratch each time.
+
+**Why It Matters:** During my internships, I noticed how much time gets lost to email. It's not just about speed—it's about mental energy spent context-switching between tasks and inbox management.
+
+**The Opportunity:** Smarter email tools that draft contextual responses, suggest follow-ups, and help batch similar communications could give professionals hours back each week.
+
+---
+
+## 4. Keeping Track of Assignments and Due Dates
+
+**The Problem:** Students juggle multiple courses, each with its own syllabus, learning management system, and assignment schedule. Important deadlines get buried, and the mental load of tracking everything is exhausting.
+
+**Why It Matters:** As someone balancing coursework with internships and extracurriculars, I've felt the stress of almost missing deadlines simply because information was scattered across too many places.
+
+**The Opportunity:** A centralized dashboard that aggregates assignments from all courses, sends smart reminders, and helps prioritize based on weight and difficulty could reduce student stress and improve academic performance.
+
+---
+
+## 5. Alarms That Actually Wake You Up
+
+**The Problem:** Traditional alarms are easy to dismiss or sleep through. Snooze buttons enable bad habits, and most alarm apps don't adapt to individual sleep patterns or wake-up difficulties.
+
+**Why It Matters:** Consistent wake-up times are foundational to productivity, health, and success. Yet millions of people struggle with this basic daily challenge, often starting their day already behind.
+
+**The Opportunity:** An alarm system that uses adaptive techniques—like requiring physical movement, solving puzzles, or integrating with smart home devices—could help people build better morning routines and take control of their days.
