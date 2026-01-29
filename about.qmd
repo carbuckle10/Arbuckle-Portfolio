@@ -11,6 +11,9 @@ title: "About Me"
 <a href="https://www.linkedin.com/in/carson-arbuckle-90800421b/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
+<a href="https://github.com/carbuckle10" class="btn btn-outline-primary btn-sm" target="_blank">
+  <i class="fab fa-github"></i> GitHub
+</a>
 
 :::
 
