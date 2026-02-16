@@ -1,55 +1,76 @@
 ---
-title: "About Me"
+title: "About — Carson Arbuckle"
 ---
 
-::: {.hero-banner .text-center}
-
-<img src="images/profile.jpg" alt="Carson Arbuckle" class="mb-3" width="220">
-
-<h1>Carson Arbuckle</h1>
-
-<a href="https://www.linkedin.com/in/carson-arbuckle-90800421b/" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a>
-<a href="https://github.com/carbuckle10" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
-</a>
-
-:::
-
-## Background
-
-Strategic Management major at the BYU Marriott School of Business with experience in both established and startup environments. At Podium and Driven I contributed to projects that required adaptability, analytical thinking, and a strong attention to detail. I also bring direct experience from building custom 3D props for businesses, blending creativity with execution.
-
-I am motivated by opportunities to solve complex problems, apply data-driven insights, and help organizations grow. Known for working efficiently and keeping projects on track, I combine strategic thinking with practical execution to deliver results.
+```{=html}
+<section class="about-header">
+  <div class="about-portrait">
+    <img src="images/profile.jpg" alt="Carson Arbuckle">
+  </div>
+  <div class="about-info">
+    <h1>Carson Arbuckle</h1>
+    <span class="about-title">Strategic Management &middot; BYU Marriott</span>
+    <p>Strategic Management major with experience in both established and startup environments. At Podium and Driven I contributed to projects that required adaptability, analytical thinking, and a strong attention to detail. I also bring direct experience from building custom 3D props for businesses, blending creativity with execution.</p>
+    <p>Motivated by opportunities to solve complex problems, apply data-driven insights, and help organizations grow.</p>
+    <div class="about-links">
+      <a href="https://www.linkedin.com/in/carson-arbuckle-90800421b/" class="btn btn-ghost btn-sm" target="_blank">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+      <a href="https://github.com/carbuckle10" class="btn btn-ghost btn-sm" target="_blank">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </div>
+  </div>
+</section>
+```
 
 ## Education
 
+::: {.education-block}
+
 **Bachelor of Science, Strategic Management**
-Brigham Young University - Marriott School of Business | Expected Apr 2027
+
+Brigham Young University — Marriott School of Business | Expected Apr 2027
 
 - GPA: 3.82
 - Corporate Strategy Association Member
 - Product Management Association Member
 
+:::
+
 ## Experience
 
-### Growth Analyst Intern - Driven
-*Jun 2025 - Aug 2025 | Provo, UT*
+```{=html}
+<div class="experience-item">
+  <div class="exp-role">Growth Analyst Intern</div>
+  <div class="exp-company">Driven</div>
+  <div class="exp-meta">Jun 2025 — Aug 2025 · Provo, UT</div>
+</div>
+```
 
 - Analyzed market landscape and identified 4 viable expansion opportunities aligned with core competencies, supporting data-driven growth strategy decisions
 - Constructed a dynamic Excel model incorporating 15 impactful variables to compare pessimistic, realistic, and optimistic revenue projections for a new service launch
 - Designed and implemented a 10-question Google Form to analyze client reward systems, achieving a 10% response rate and generating actionable insights
 
-### Product Marketing and Positioning Strategy Intern - Podium
-*Jan 2025 - Apr 2025 | Remote*
+```{=html}
+<div class="experience-item">
+  <div class="exp-role">Product Marketing &amp; Positioning Strategy Intern</div>
+  <div class="exp-company">Podium</div>
+  <div class="exp-meta">Jan 2025 — Apr 2025 · Remote</div>
+</div>
+```
 
 - Conducted in-depth competitor analysis, identifying 29 key players in Podium's core verticals; leveraged AI tools to evaluate strengths, weaknesses, and features
 - Led weekly meetings to deliver project updates, gather feedback, and scope new initiatives
 - Created 4 targeted marketing assets incorporating research-driven customer language and AI-related pain points
 
-### Sculptor / Painter / Installation - Foam Fab
-*Nov 2022 - Aug 2025 | Springville, UT*
+```{=html}
+<div class="experience-item">
+  <div class="exp-role">Sculptor / Painter / Installation</div>
+  <div class="exp-company">Foam Fab</div>
+  <div class="exp-meta">Nov 2022 — Aug 2025 · Springville, UT</div>
+</div>
+```
 
 - Developed programs to increase productivity in post-production and shipping, making the process 25% faster
 - Developed a process to increase product quality by 30% while maintaining speed, efficiency, and improving margins
@@ -57,13 +78,25 @@ Brigham Young University - Marriott School of Business | Expected Apr 2027
 
 ## Skills & Interests
 
-**Technical Skills**
+#### Technical Skills
 
-- Excel, Word, PowerPoint
-- SQL, HTML, VBA
+```{=html}
+<div class="skill-grid">
+  <span class="skill-tag">Excel</span>
+  <span class="skill-tag">Word</span>
+  <span class="skill-tag">PowerPoint</span>
+  <span class="skill-tag">SQL</span>
+  <span class="skill-tag">HTML</span>
+  <span class="skill-tag">VBA</span>
+</div>
+```
 
-**Interests**
+#### Interests
 
-- Mountain Biking (Scholarship Recipient)
-- International Travel - visited China, Brazil, Costa Rica, Peru, and the Philippines
-- Currently reading "Think Fast Talk Smart"
+```{=html}
+<div class="skill-grid" style="margin-top: 0.75rem;">
+  <span class="skill-tag">Mountain Biking</span>
+  <span class="skill-tag">International Travel</span>
+  <span class="skill-tag">Reading</span>
+</div>
+```

@@ -1,34 +1,39 @@
 ---
-title: "Welcome to My Product Management Portfolio"
+title: "Carson Arbuckle — Strategic Management & Product"
+toc: false
 ---
 
-::: {.hero-banner .text-center}
+```{=html}
+<section class="site-hero">
+  <div class="hero-content">
+    <span class="hero-overline">Strategic Management &amp; Product</span>
+    <h1 class="hero-title">Carson<br>Arbuckle</h1>
+    <p class="hero-subtitle">Strategic thinker and product-minded analyst at BYU Marriott School of Business. I combine data-driven insights with practical execution to help organizations grow.</p>
+    <div class="hero-actions">
+      <a href="about.html" class="btn btn-accent">About Me</a>
+      <a href="https://www.linkedin.com/in/carson-arbuckle-90800421b/" class="btn btn-ghost" target="_blank">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+      <a href="https://github.com/carbuckle10" class="btn btn-ghost" target="_blank">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </div>
+  </div>
+</section>
 
-<img src="images/profile.jpg" alt="Carson Arbuckle" class="mb-3" width="220">
-
-<h1>Carson Arbuckle</h1>
-
-<a href="https://www.linkedin.com/in/carson-arbuckle-90800421b/" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a>
-<a href="https://github.com/carbuckle10" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
-</a>
-
-:::
-
-## About Me
-
-Strategic Management major at the BYU Marriott School of Business with experience in both established and startup environments. At Podium and Driven I contributed to projects that required adaptability, analytical thinking, and a strong attention to detail. I also bring direct experience from building custom 3D props for businesses, blending creativity with execution.
-
-I am motivated by opportunities to solve complex problems, apply data-driven insights, and help organizations grow. Known for working efficiently and keeping projects on track, I combine strategic thinking with practical execution to deliver results.
-
-## Featured Projects
-
-::: {.g-col-12 .g-col-md-6 .card}
-
-### [Tetris Game](projects/project-1.qmd)
-A classic Tetris game built with Claude Code, featuring smooth controls, scoring, and level progression. 
-
-:::
-
+<section style="padding-top: var(--space-xl);">
+  <div class="section-header">
+    <span class="section-label">Selected Work</span>
+    <h2 class="section-title">Featured Projects</h2>
+  </div>
+  <a href="projects/project-1.html" class="project-card">
+    <span class="project-number">01</span>
+    <div class="project-info">
+      <h3>Tetris Game</h3>
+      <p>A classic Tetris game built with Claude Code, featuring smooth controls, scoring, and level progression.</p>
+      <span class="project-tags">JavaScript &middot; Vercel &middot; Claude Code</span>
+    </div>
+    <span class="project-arrow">&rarr;</span>
+  </a>
+</section>
+```
